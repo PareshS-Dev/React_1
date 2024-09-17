@@ -1,0 +1,26 @@
+nav{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 2vw 5vw;
+font-family: "gilroy";
+}
+.ncenter{
+    align-items: center;
+    display: flex;
+    gap: 60px;
+}
+.ncenter a{
+    text-decoration: none;
+    color: #000;
+    font-size: 1vw;
+    font-weight: 900;
+}
+.nright button{
+    background-color: red;
+    color: #fff;
+    padding: 5px 20px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+}

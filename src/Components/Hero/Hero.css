@@ -1,0 +1,79 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 82vh;
+}
+
+.main-text{
+ font-family: "averta cy w10";
+ margin-top: -1vw;
+ margin-left: 12vw;
+ font-size: 3vw;
+ line-height: 1;
+ font-weight: 900;
+}
+.main-pa{
+    margin-left: 12vw;
+    text-transform: uppercase;
+    font-family: "averta cy w10";
+    font-size: 1vw;
+    margin-top: -1.5vw;
+    font-weight: 500;
+}
+.button{
+    display: flex;
+    align-items: center;
+    margin-left: 12vw;
+    gap: 39px;
+}
+.Shop{
+    background-color: red;
+    color: #fff;
+    padding: 5px 15px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.Category{
+    background-color: #fff;
+    color: #000;
+    padding: 5px 15px;
+    border: 2px solid #000;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.Ava{
+    margin-left: 12vw;
+    font-size: .9vw;
+    font-family: "averta cy w10";
+    font-weight: 500;
+    color: #4d4d4d;
+    margin-top: 2.5vw;
+}
+.partner{
+    margin-left: 12vw;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    
+   
+}
+.partner img{
+    height: 2vw;
+    margin-top: .9vw;
+}
+.img{
+    margin-right: 5vw;
+    /* margin-top: 10vw; */
+}
+.img img{
+   margin-bottom: -1vw;
+}
+
+.amazon{
+   padding-top: .3vw;
+}
